@@ -1,7 +1,7 @@
 ---
 title: "Spatially resolved multiomics of human cardiac niches"
 collection: publications
-permalink: /publication/2023-07-12-paper-title-number-4
+permalink: /publication/2023-07-12-Spatially-resolved-adult-heart
 excerpt: ''
 date: 2023-07-12
 venue: 'Nature'
