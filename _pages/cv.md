@@ -48,11 +48,13 @@ Research experience
   * Supervisor: Professor Akira Shibuya
   * Establishment of monoclonal antibody against mouse FceRIa
 
-Publications
+Selected publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Other publications: [Google Scholar](https://scholar.google.com/citations?user=0KhmWp4AAAAJ&hl=en&oi=ao)
   
 Talks
 ======
